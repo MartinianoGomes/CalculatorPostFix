@@ -13,6 +13,10 @@
 3. Digite o operador.
 4. Observe o resultado na tela.
 
+<p>Observe, na imagem abaixo, como funciona:</p>
+
+![alt text](src/images/image.png)
+
 # Exemplo
 
 <p>Para calcular 2 + 3, você digitaria: </p>
