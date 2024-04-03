@@ -13,9 +13,13 @@
 3. Digite o operador.
 4. Observe o resultado na tela.
 
-<p>Observe, na imagem abaixo, como funciona:</p>
+<details>
+
+<summary>Observe como a Calculadora Pós-Fixada funciona pictoricamente!</summary>
 
 ![alt text](src/images/image.png)
+
+</details>
 
 # Exemplo
 
